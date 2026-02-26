@@ -12,3 +12,8 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/tharuka-14/Tharuka_store_LaravelBasic.git
+
+### Demo Video
+
+You can watch the Add Product and Product List demo here:  
+[Watch Video]https://drive.google.com/file/d/1gEAhNtAXam9r3WtRrJsOnhK5iMovwNqE/view
